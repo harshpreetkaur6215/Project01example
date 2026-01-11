@@ -1,0 +1,8 @@
+.Header{
+    background-color: black;
+    color: white;
+}
+.ele{
+    display: flex;
+    justify-content: space-between;
+}

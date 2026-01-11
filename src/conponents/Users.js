@@ -1,4 +1,3 @@
-import React from "react";
 import "./Users.css"; // CSS import
 
 const Users = () => {
